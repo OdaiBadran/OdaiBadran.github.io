@@ -1,0 +1,18 @@
+Set the new Home Screen icon for طبختي
+
+1. Extract tabkhti-app-icon.zip on your computer.
+2. Open https://github.com/OdaiBadran/OdaiBadran.github.io
+3. Upload BOTH index.html and apple-touch-icon.png into the repository's main website folder (the root, alongside the existing index.html).
+4. Commit the change and wait for GitHub Pages to finish publishing.
+5. Check that https://odaibadran.github.io/apple-touch-icon.png shows your logo.
+6. Open https://odaibadran.github.io/ in Safari and add it to your Home Screen to use the new icon. Existing icons may keep their cached image.
+
+Keep your saved meal plan:
+Before removing or reinstalling an existing Home Screen web app, open it and use عائلتي وتفضيلاتي > تصدير بياناتي to download a backup. If the newly added Home Screen app opens with a fresh plan, use استيراد نسخة to restore that backup. Check the restored plan before removing the old Home Screen icon.
+
+Files in this package:
+- index.html: the latest prepared app, with the new Home Screen icon setting.
+- apple-touch-icon.png: your supplied logo formatted as an opaque square 180×180 PNG, with the artwork preserved.
+- ICON_SETUP.txt: these instructions (uploading this text file is optional).
+
+This package does not publish the website by itself.
